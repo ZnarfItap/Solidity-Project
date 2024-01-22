@@ -51,7 +51,7 @@ contract MyToken {
 ```
 
 * Right click on a blank area in FILE EXPORER(Right Window) and click upload file
-* Upload reate_token.sol
+* Upload create_token.sol
 * Open on create_token.sol in FILE EXPORER
 * Open the Solidity compiler(third icon on the far right)
 * Click "Compile and Run script"
