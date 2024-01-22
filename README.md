@@ -14,7 +14,7 @@ The burn function removes tokens from the balance of the specified address and t
 
 ### Installing
 
-* Downlad the createToken.sol
+* Downlad the create_token.sol
 * createToken.sol can be run using the online solidity IDE https://remix.ethereum.org/
 
 ### Executing program
@@ -41,4 +41,6 @@ The burn function removes tokens from the balance of the specified address and t
 
 ## Authors
 
+Francesque Marie T. Pati
 
+patifrancesque@gmail.com
