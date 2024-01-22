@@ -22,7 +22,6 @@ The burn function removes tokens from the balance of the specified address and t
 * Go to https://remix.ethereum.org/
 
 ```javascript
-
 contract MyToken {
 
     // public variables here
